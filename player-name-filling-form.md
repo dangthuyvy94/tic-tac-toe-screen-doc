@@ -2,7 +2,7 @@
 
 ## イメージ
 
-![player-name-filling-form](/Users/dangthuyvy/Documents/Git/tic-tac-toe-screen-doc/player-name-filling-form.png)
+![player-name-filling-form](./player-name-filling-form.png)
 
 ## 項目一覧
 
